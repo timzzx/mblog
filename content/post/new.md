@@ -6,7 +6,7 @@ tags: [其他]
 gitment: true
 TableOfContents: true
 ---
-### 第一次用github的Pages来做自己的博客感觉挺有意思，希望自己能坚持写下去吧！
+>第一次用github的Pages来做自己的博客感觉挺有意思，希望自己能坚持写下去吧！
 
 #### 测试代码展示
 ```go
