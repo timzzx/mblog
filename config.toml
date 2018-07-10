@@ -1,3 +1,9 @@
 baseURL = "https://timx.cn"
 languageCode = "en-us"
 title = "淡淡忧愁"
+[params]
+    clientID='5b5fde7475577bcb14fc'
+    clientSecret='5a75bf2c7de61ecfb836987ddb5889433044a464'
+    owner='timzzx'
+    repo='timx.cn'
+    admin='timzzx'
