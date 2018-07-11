@@ -1,6 +1,9 @@
 baseURL = "https://timx.cn"
 languageCode = "en-us"
 title = "淡淡忧愁"
+[author]
+  name = "Tim Zhang"
+  homepage = "https://timx.cn"
 [params]
     clientID='5b5fde7475577bcb14fc'
     clientSecret='5a75bf2c7de61ecfb836987ddb5889433044a464'
