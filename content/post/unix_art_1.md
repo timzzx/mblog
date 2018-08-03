@@ -1,5 +1,5 @@
 ---
-title: "Unix编程艺术"
+title: "Unix编程艺术(一)"
 date: 2018-08-02T16:47:52+08:00
 categories: [UNIX]
 tags: [2018-8]
@@ -35,7 +35,7 @@ tags: [2018-8]
 + 扩展原则：设计着眼未来，未来总比预想来得快。
 
 ## UNIX “KISS” 原则
-> <b>Keep It Simple , Stupid ! 简单就是美 !</b>
+> <b><font color="#18516f">Keep It Simple , Stupid ! 简单就是美 !</font></b>
 
 ## 应用哲学
 
@@ -59,7 +59,7 @@ tags: [2018-8]
 
 ## 操作系统的风格元素
 
-> <b>Unix "一切皆文件" 模型及在此基础上建立的管道概念</b>
+> <b><font color="#18516f">Unix "一切皆文件" 模型及在此基础上建立的管道概念</font></b>
 
 + 操作系统的同一理念
 
