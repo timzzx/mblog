@@ -2,7 +2,7 @@
 title: "Unix编程艺术(一)"
 date: 2018-08-02T16:47:52+08:00
 categories: [UNIX]
-tags: [2018-8]
+tags: [2018-08]
 ---
 
 # UNIX哲学

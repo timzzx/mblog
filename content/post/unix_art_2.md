@@ -2,7 +2,7 @@
 title: "Unix编程艺术(二)"
 date: 2018-08-03T10:20:36+08:00
 categories: [UNIX]
-tags: [2018-8]
+tags: [2018-08]
 ---
 
 # 模块性

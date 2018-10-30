@@ -2,7 +2,7 @@
 title: "Unix编程艺术(七)"
 date: 2018-08-08T10:41:31+08:00
 categories: [UNIX]
-tags: [2018-8]
+tags: [2018-08]
 TableOfContents: true
 ---
 

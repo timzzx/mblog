@@ -2,7 +2,7 @@
 title: "hugo的模板Maupassant"
 date: 2018-07-11T11:05:03+08:00
 categories: [模板]
-tags: [2018-7]
+tags: [2018-07]
 gitment: true
 TableOfContents: true
 ---

@@ -2,7 +2,7 @@
 title: "博客开通"
 date: 2018-07-04T17:44:01+08:00
 categories: [其他]
-tags: [2018-7]
+tags: [2018-07]
 gitment: true
 TableOfContents: true
 ---

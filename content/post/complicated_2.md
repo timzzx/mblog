@@ -2,7 +2,7 @@
 title: "web高并发的理解和发现(二)"
 date: 2018-08-29T15:23:22+08:00
 categories: [高并发]
-tags: [2018-8]
+tags: [2018-08]
 TableOfContents: true
 ---
 # CAP理论

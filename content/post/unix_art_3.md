@@ -2,7 +2,7 @@
 title: "Unix编程艺术(三)"
 date: 2018-08-03T15:08:36+08:00
 categories: [UNIX]
-tags: [2018-8]
+tags: [2018-08]
 ---
 
 # 文本化
